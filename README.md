@@ -10,7 +10,7 @@ Sample screens:
 
 Choose datatype
 
-![Alt text](/screens/datatype.PNG.PNG?raw=true "User Register")
+![Alt text](/screens/datatypes.PNG?raw=true "User Register")
 
 Put and get value.
 
